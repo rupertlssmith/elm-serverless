@@ -1,7 +1,0 @@
-extends: airbnb
-env:
-  mocha: true
-rules:
-  arrow-parens: off
-  comma-dangle: off
-  func-names: off

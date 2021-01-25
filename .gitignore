@@ -1,8 +1,0 @@
-/tests/Doc
-elm-stuff
-node_modules
-*.log
-.coverage
-.serverless
-.webpack
-package-lock.json
