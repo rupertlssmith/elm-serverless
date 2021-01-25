@@ -1,9 +1,0 @@
-{
-  "root": "../src",
-  "tests": [
-    "Serverless.Conn",
-    "Serverless.Conn.Body",
-    "Serverless.Conn.IpAddress",
-    "Serverless.Plug"
-  ]
-}
